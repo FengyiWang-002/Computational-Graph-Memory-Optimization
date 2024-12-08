@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(36,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(75,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(115,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(130,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(173,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(197,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(205,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(242,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(262,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(306,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\Benchmark_and_Test\algorithm.h(433): warning C4715: “Algorithm”: 不是所有的控件路径都返回值
+  Benchmark_and_Test.vcxproj -> C:\Users\25846\Desktop\DSA pj1\Computational Graph Memory Optimization\x64\Debug\Benchmark_and_Test.exe
